@@ -1,1 +1,1 @@
-worker : git clone https://github.com/Lexxy24/node_modules && npm start
+worker : git clone https://github.com/Lexxy24/node_modules && node main
