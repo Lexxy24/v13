@@ -10,7 +10,7 @@
     </a>
 </p>
 
-# Instalasi
+# BOTV13
 ## Heroku Buildpack
 
 Click the deploy icon below !
