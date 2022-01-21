@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+lexxy+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Subscribe+YouTube+Lexxy+Official+🌐"
             alt="Lexxy Official"
         />
     </a>
@@ -37,8 +37,6 @@ Click the deploy icon below !
 > cd v13
 > git clone https://github.com/Lexxy24/node_modules
 > npm start
-> 
-> node haruka.js
 ```
 
 ## settings
