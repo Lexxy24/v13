@@ -1,6 +1,6 @@
-# Bot Whatsapp
+# BotzV13
 
-# Command Termux
+```Command Termux```
 > pkg install bash
 > pkg install nodejs
 > pkg install libwebp
@@ -13,10 +13,9 @@
 > git clone https://github.com/Lexxy24/node_modules
 > npm start
 
-# Buildpack Heroku
-
---------[ webp ]--------
+```Buildpack Heroku```
+webp
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
--------[ ffmpeg ]--------
+ffmpeg
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
