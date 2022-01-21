@@ -18,4 +18,4 @@ RUN npm install -g pm2
 RUN npm update
 COPY . .
 RUN pm2 save
-CMD ["pm2-runtime", "main.js"]`
+CMD ["pm2-runtime", "index.js"]`
