@@ -107,7 +107,7 @@ return `*DROP DATA DIAMOND ML*
 • LEGAL 100%
 • PROSES 1-5 MENIT
 
-*86 💎 Rp 20.000*
+*86 💎 Rp 25.000*
 *172 💎 Rp 39.500*
 *257 💎 Rp 58.000*
 *344 💎 Rp 78.000*
