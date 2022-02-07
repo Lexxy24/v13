@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://telegra.ph/file/8c988b0bd80b582673019.jpg" alt="LEXXY BOT" width="200"/>
+<img src="https://telegra.ph/file/d900585fcf7abf8576e59.jpg" alt="LEXXY BOT" width="200"/>
 
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🌐"
-            alt="Lexxy Official"
+            alt="Akira Official"
         />
     </a>
 </p>
@@ -35,7 +35,7 @@ Click the deploy icon below !
 > cd /sdcard/v13
 > git clone https://github.com/Lexxy24/v13.git
 > cd v13
-> git clone https://github.com/Lexxy24/node_modules
+> git clone https://github.com/AkiraUchiha92/node_modules
 > npm start
 ```
 
