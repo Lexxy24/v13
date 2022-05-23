@@ -10,7 +10,7 @@
     </a>
 </p>
 
-# BOTV13
+# BOT-MD
 ## Heroku Buildpack
 
 Click the deploy icon below !
